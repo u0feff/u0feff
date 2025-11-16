@@ -1,5 +1,7 @@
 # Hello! My name is Vlas 🤪
 
+<img src="https://github-readme-stats.vercel.app/api?username=u0feff&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="stats"/>
+
 1. [Tech stack](#stack)
 2. [Projects](#projects)
 3. [Tools](#tools)
