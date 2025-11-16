@@ -8,6 +8,8 @@
 
 ## Tech stack <span id="stack"></span>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=u0feff&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="top-langs" />
+
 - C# - my main language, along with related technologies.
 - I specialize in developing backend applications and libraries with complex logic and *maybe* math.
 - *And honestly, I went crazy and got too carried away by clean architecture.* 🤪
