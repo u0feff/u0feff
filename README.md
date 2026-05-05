@@ -7,7 +7,7 @@
 
 ## ⚡ Skills <span id="skills"></span>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=u0feff&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="top-langs" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=u0feff&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="top-langs" />
 
 - 👨‍💻 **C#** — *My primary forge, along with related technologies.*
 - 🌀 **I have explored *many languages***, *but always seeking to carry the "ideal form" of my C# experience into new syntaxes.*
