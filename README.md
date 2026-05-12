@@ -25,17 +25,14 @@
 
 - [PinkSystem](https://github.com/Vlas-Omsk/PinkSystem) (C#) - Library with commonly used components and base infrastructure
   - [PinkSystem.Net.Http.Tls](https://github.com/Vlas-Omsk/PinkSystem.Net.Http.Tls) (C#) - Extension for configurable http tls
-- ~~[PinkJson](https://github.com/Vlas-Omsk/PinkJson) (C#) - Library for working with JSON format~~
-- [Tiles.js](https://github.com/Vlas-Omsk/Tiles.js) (JS)
-- [OpenVPN](https://github.com/u0feff/OpenVpn) (C#) - Reimplementation of OpenVPN protocol in C#
 
 ## 🧪 Experiments <sub>*(that I like)*</sub> <span id="experiments"></span>
 
+- [PinkJson](https://github.com/Vlas-Omsk/PinkJson) (C#) - Library for working with JSON format
+- [Tiles](https://github.com/Vlas-Omsk/Tiles) (JS)
+- [OpenVPN](https://github.com/u0feff/OpenVpn) (C#) - Reimplementation of OpenVPN protocol in C#
 - [MethodPatch](https://github.com/Vlas-Omsk/MethodPatch) (C#) - Allows you to patch a method at runtime and intercept its call 
 - [PinkWebFramework](https://github.com/Vlas-Omsk/PinkWebFramework) (JS)
-
-### 🐾 PETs <sub>*(that were interesting challenges from the past)*</sub> <span id="pets"></span>
-
 - [TZG](https://github.com/i3ym/TZG) (Web) - Just Geoguessr clone
-- [SimpleCalculator](https://github.com/Vlas-Omsk/SimpleCalculator) (C++) - Why not?
 - [MCPEKeyForwarding](https://github.com/Vlas-Omsk/MCPEKeyForwarding) (C++) - Just an application that triggers a keyboard button when the right mouse button is pressed for Minecraft PE
+- [SimpleCalculator](https://github.com/Vlas-Omsk/SimpleCalculator) (C++) - Simply math parser and solver
