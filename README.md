@@ -13,21 +13,25 @@
 - 🌀 **I have explored *many languages***, *but always seeking to carry the "ideal form" of my C# experience into new syntaxes.*
 - 🛠️ **Currently descending into the world of *DevOps*.** *Exploring the dark corners of network stack and building my perfect **homelab** that solves my and my friends' everyday problems* <sub><sup>(while trying to monetize it lol)</sup></sub>
 
-## 🏗️ Projects <span id="projects"></span>
-
-*Masterpieces in the making...* ⏳
+---
 
 ## 🛸 Legendary Milestones <span id="legendary-milestones"></span>
 
-### Rackboard
+### Rackboard 🗄️💨
 
 > *<ins>Normal</ins>* is boring. ***Better*** is turning a server rack into a downhill longboard. 🛹
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/u0feff/u0feff/refs/heads/main/rackboard.mp4" controls loop mute></video>
+  <img src="https://raw.githubusercontent.com/u0feff/u0feff/refs/heads/main/rackboard.gif" width="240" height="240" controls></video>
   <br />
   <sub><i>Do not try this at your local data center. ⚠️</i></sub>
 </p>
+
+---
+
+## 🏗️ Projects <span id="projects"></span>
+
+*Masterpieces in the making...* ⏳
 
 ## 🛠️ Tools <sub>*(that unexpectedly became popular)*</sub> <span id="tools"></span>
 
@@ -37,6 +41,8 @@
 
 - [PinkSystem](https://github.com/Vlas-Omsk/PinkSystem) (C#) - Library with commonly used components and base infrastructure
   - [PinkSystem.Net.Http.Tls](https://github.com/Vlas-Omsk/PinkSystem.Net.Http.Tls) (C#) - Extension for configurable http tls
+
+---
 
 ## 🧪 Experiments <sub>*(that I like)*</sub> <span id="experiments"></span>
 
