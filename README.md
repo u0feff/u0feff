@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/u0feff/u0feff/refs/heads/main/rackboard.gif" width="240" height="240" controls></video>
   <br />
-  <sub><i>Do not try this at your local data center. ⚠️</i></sub>
+  <sub><i>Do not try this at home, in dc, or wherever the hell you are... NSFW!!! But... Never mind, I can handle another internet outage. ⚠️</i></sub>
 </p>
 
 ---
