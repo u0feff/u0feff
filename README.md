@@ -12,9 +12,9 @@
 - 👨‍💻 **C#** — *My primary forge, along with related technologies.*
 - 🌀 **I have explored *many languages***, *but always seeking to carry the "ideal form" of my C# experience into new syntaxes.*
 - 🛠️ **Currently descending into the world of *DevOps*.** *Exploring the dark corners of network stack and building my perfect **homelab** that solves my and my friends' everyday problems*
-  - **Storaging Strategy:** Scaling my storage by hunting for dead **18TB Seagate Exos** - High stakes, maximum adrenaline. 🎰
-  - **Power Redundancy Strategy:** Trying not to burn while drilling case under hydrogen pressure. 🔋
-  - **Monetization Approach:** *In regress.*
+  - 🎰 **Storaging Strategy:** Scaling my storage by hunting for dead **18TB Seagate Exos** - High stakes, maximum adrenaline. 
+  - 🔋 **Power Redundancy Strategy:** Trying not to burn while drilling case under hydrogen pressure. 
+  - 💸 **Monetization Approach:** *In regress.*
 
 ---
 
