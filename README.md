@@ -17,6 +17,18 @@
 
 *Masterpieces in the making...* ⏳
 
+## 🛸 Legendary Milestones <span id="legendary-milestones"></span>
+
+### Rackboard
+
+> *<ins>Normal</ins>* is boring. ***Better*** is turning a server rack into a downhill longboard. 🛹
+
+<p align="center">
+  <video src="https://raw.githubusercontent.com/u0feff/u0feff/refs/heads/main/rackboard.mp4" controls loop mute></video>
+  <br />
+  <sub><i>Do not try this at your local data center. ⚠️</i></sub>
+</p>
+
 ## 🛠️ Tools <sub>*(that unexpectedly became popular)*</sub> <span id="tools"></span>
 
 - [MediaFireDownloader](https://github.com/Vlas-Omsk/MediaFireDownloader) - Simple console client for downloading a folder and all files from it from MediaFire
